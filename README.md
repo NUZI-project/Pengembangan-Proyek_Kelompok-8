@@ -1,6 +1,6 @@
 # 🛡️ Sistem Manajemen Ancaman (Kelompok 8)
 
-Proyek ini adalah aplikasi berbasis Java untuk mengelola data ancaman keamanan siber (Cyber Security). Aplikasi ini diimplementasikan menggunakan **Design Pattern: Factory Method** untuk memastikan pembuatan objek ancaman (Malware, Phishing, dll) terorganisir dengan baik.
+Proyek ini adalah aplikasi berbasis CLI untuk mengelola data ancaman keamanan siber (Cyber Security). Aplikasi ini diimplementasikan menggunakan **Design Pattern: Factory Method** untuk memastikan pembuatan objek ancaman (Malware, Phishing, dll) terorganisir dengan baik.
 
 ## 📂 Struktur Folder
 - **src/app**: Berisi logika utama aplikasi (`Main.java`) dan penyimpanan data.
