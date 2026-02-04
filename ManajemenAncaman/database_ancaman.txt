@@ -1,0 +1,41 @@
+
+[2026/01/30 23:36:06]
+────────────────────────────
+       MALWARE THREAT
+────────────────────────────
+Nama Malware : Trojan.Win32.Generic
+Hash File    : 5e884898da28047151d0e56f
+Dampak       : Mencuri data pribadi seperti username dan password media sosial atau m-banking secara diam-diam.
+----------------------------------------
+[2026/01/30 23:37:31]
+────────────────────────────
+       MALWARE THREAT
+────────────────────────────
+Nama Malware : WannaCry.Ransom.v2
+Hash File    : 248d6a61d2063a9439130732
+Dampak       : Mengunci semua file di komputer sehingga tidak bisa dibuka, lalu meminta uang tebusan untuk membukanya kembali.
+----------------------------------------
+[2026/01/31 08:29:25]
+────────────────────────────
+       MALWARE THREAT
+────────────────────────────
+Nama Malware : Trojan.Win32.Generic
+Hash File    : 5e884898da28047151d0e56f
+Dampak       : Mencuri data pribadi seperti username dan password media sosial atau m-banking secara diam-diam.
+----------------------------------------
+[2026/02/01 14:42:29]
+────────────────────────────
+       MALWARE THREAT
+────────────────────────────
+Nama Malware : Trojan.Win32.Generic
+Hash File    : 5e884898da28047151d0e56f
+Dampak       : Mencuri data pribadi seperti username dan password media sosial atau m-banking secara diam-diam.
+----------------------------------------
+[2026/02/01 16:06:29]
+────────────────────────────
+       MALWARE THREAT
+────────────────────────────
+Nama Malware : trojan
+Hash File    : 567dfrt47387488494467hg
+Dampak       : Mencuri data pribadi seperti username , pasword hingga yg paling pensting m E walet atau Mbking
+----------------------------------------
